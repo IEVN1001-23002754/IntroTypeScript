@@ -1,5 +1,8 @@
+// import './temasTS/01-tipos-bas.ts'
+// import './temasTS/02-obj-iterfaz-arre.ts'
+import './temasTS/03-funciones.ts'
+
 import './style.css'
-import './temasTS/01-tipos-bas.ts'
 import heroImg from './assets/hero.png'
 import typescriptLogo from './assets/typescript.svg'
 import viteLogo from './assets/vite.svg'

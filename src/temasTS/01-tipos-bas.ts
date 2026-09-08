@@ -5,6 +5,7 @@ let num2 = 25
 const num3 = 22
 
 // declarar variable con su tipo
+// es importante especificar 
 let nombres:string 
 let num:number
 let activo:boolean
@@ -12,3 +13,9 @@ let activo:boolean
 let suma:number=num1+num2+num3
 
 console.log('La suma es: ' + suma)
+
+// asignar más de un tipo de dato a una variable
+let matricula:number|string
+matricula = 123456789
+matricula = "A1B2C3D4"
+console.log(matricula)
